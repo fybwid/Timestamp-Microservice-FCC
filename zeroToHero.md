@@ -19,7 +19,6 @@ app.listen(3000, function () {
 9. commit to git:
     git status
     git add .
-    git commit "initial commit"
+    git commit -m "initial commit"
     git remote add origin https://github.com/fybwid/Timestamp-Microservice.git
     git push origin master
-    
