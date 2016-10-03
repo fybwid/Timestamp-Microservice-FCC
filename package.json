@@ -13,5 +13,18 @@
     "Microservice"
   ],
   "author": "Yosef Benny Widyokarsono, S.Kom",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fybwid/Timestamp-Microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fybwid/Timestamp-Microservice/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  },
+  "homepage": "https://github.com/fybwid/Timestamp-Microservice#readme"
 }
